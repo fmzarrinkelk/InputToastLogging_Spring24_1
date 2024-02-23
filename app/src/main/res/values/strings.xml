@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Input Toast Logging Spring 24</string>
+    <string name="my_application">My Application</string>
+    <string name="first_button">First Button</string>
+    <string name="second_button">Second Button</string>
+    <string name="third_button">Third Button</string>
+    <string name="type_your_name_here">Type your name here</string>
+    <string name="are_you_happy">Are you happy</string>
+    <string name="you_are_happy">You are happy</string>
+    <string name="you_are_not_happy">You are not happy</string>
+</resources>
